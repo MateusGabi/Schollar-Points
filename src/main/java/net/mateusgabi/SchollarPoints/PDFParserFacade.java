@@ -5,9 +5,7 @@ import org.apache.pdfbox.pdfparser.PDFParser;
 import org.apache.pdfbox.pdmodel.PDDocument;
 import org.apache.pdfbox.text.PDFTextStripper;
 
-import java.io.File;
-import java.io.FileWriter;
-import java.io.IOException;
+import java.io.*;
 
 /**
  * @author Mateus Gabi Moreira <mateusgabimoreira@gmail.com>
@@ -104,5 +102,57 @@ public class PDFParserFacade {
         return true;
 
 
+    }
+
+    /**
+     *
+     * @param i
+     * @return
+     */
+    public String getLine(int i) {
+
+        // a numeração começa em 0, então temos que subtrair um
+        i--;
+
+        try {
+
+            FileInputStream stream = new FileInputStream("temp.txt");
+            StringBuilder txt = new StringBuilder();
+            InputStreamReader streamReader = new InputStreamReader(stream);
+            BufferedReader reader = new BufferedReader(streamReader);
+
+            String line = null;
+            while ((line = reader.readLine()) != null) {
+                if (i > 0) {
+
+                    i--;
+
+                } else if (i == 0) {
+                    return line;
+                }
+                else {
+                    break;
+                }
+            }
+
+        } catch (Exception ex) {
+
+            return null;
+
+        }
+
+
+        return null;
+    }
+
+    public String[] getCourses() {
+
+        return new String[] {
+            "ALGORITMOS E PROGRAMAÇÃO ORIENTADA A OBJETOS I",
+            "CÁLCULO I",
+            "INTRODUÇÃO À ADMINISTRAÇÃO",
+            "INTRODUÇÃO À ENGENHARIA DE SOFTWARE",
+            "INTRODUÇÃO A SISTEMAS DIGITAIS"
+        };
     }
 }

@@ -6,6 +6,8 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.util.Arrays;
+
 import static org.junit.Assert.*;
 
 /**
@@ -81,6 +83,26 @@ public class PDFParserFacadeTest {
         mock.setPDFFileSource("src\\test\\resources\\documento.pdf");
 
         Assert.assertTrue(mock.writeContent());
+    }
+
+    @Test
+    public void should_return_line_2() {
+
+        mock.setPDFFileSource("src\\test\\resources\\documento.pdf");
+
+        mock.writeContent();
+
+        Assert.assertEquals("Universidade Federal de Mato Grosso do Sul", mock.getLine(2));
+    }
+
+    @Test
+    public void should_return_null_line_145() {
+
+        mock.setPDFFileSource("src\\test\\resources\\documento.pdf");
+
+        mock.writeContent();
+
+        Assert.assertNull(mock.getLine(145));
     }
 
 }

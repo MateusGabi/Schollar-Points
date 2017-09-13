@@ -1,6 +1,144 @@
-﻿2015.1
-1919.000267-1|ALGORITMOS E PROGRAMAÇÃO ORIENTADA A OBJETOS I|102|8,3|AP|OBR
-2201.000076-4|CÁLCULO I|85|7,8|AP|OBR
-2501.000008-4|INTRODUÇÃO À ADMINISTRAÇÃO|68|5,5|RN|OBR
-1919.000362-7|INTRODUÇÃO À ENGENHARIA DE SOFTWARE|68|7,9|AP|OBR
-1919.000271-0|INTRODUÇÃO A SISTEMAS DIGITAIS|34|8,9|AP|OB
+Ministério da Educação
+Universidade Federal de Mato Grosso do Sul
+PROGRAD - Pró-Reitoria de Graduação
+DICE - Divisão de Controle Escolar
+Histórico Escolar
+FACOM  -  FACULDADE DE COMPUTAÇÃO
+1906/5  - ENGENHARIA DE SOFTWARE - BACHARELADO
+ RECONHECIMENTO: 
+2015.1906.014-9  MATEUS GABI MOREIRA
+Perfil Profissional
+O egresso oriundo do curso de Bacharelado em Engenharia de Software desenvolve a capacidade de se adaptar
+à evolução científica e tecnológica da Computação e de suas tecnologias, assim como a capacidade de
+utilizá-las coerentemente, transformando-se em um agente transformador da sociedade. Assim, o egresso do
+curso de Bacharelado em Engenharia de Software é um profissional preparado para a sólida carreira na indústria
+de desenvolvimento de software, levando em consideração a flexibilidade necessária para atender domínios
+diversificados de aplicação e as vocações institucionais.
+Dados do Ingresso
+Ingresso : INGRESSO VIA SiSU Ano : 2015
+Enem : 08/11/2014 a 09/11/2014 Pontuação : 710,41 Classificação :
+Disciplinas : Ciências Humanas e suas Tecnologias, Ciências da Natureza e suas Tecnologias, Linguagens,
+Códigos e suas Tecnologias, Matemática e suas Tecnologias e Redação
+Dados Pessoais
+Estado Civil : Solteiro Sexo : Masculino Data de Nascimento : 04/10/1996
+Naturalidade : CAMPO GRANDE / MS Nacionalidade : BRASILEIRA
+Filiação : ELTON OFEMESTER MOREIRA / LUCINTE GABI DA SILVA
+Identidade : ( CID ) 13.647.256-9 SSSP/ PR
+Documento Militar : ( CDI ) 300264576012 MD             / MS
+Título de Eleitor : 026154561902 Zona : 035 Seção : 0458 Estado : MS
+Conclusão do Ensino Médio / Ensino Superior
+Instituição : COLÉGIO MILITAR DE CAMPO GRANDE
+Cidade : CAMPO GRANDE / MS - BRA Ano de Conclusão : 2014
+Origem Acadêmica (Transferência)
+Instituição :
+Ano de Ingresso : Vestibular/Enem :
+Disciplinas :
+Diplomação do Acadêmico
+Conclusão do Curso : Colação de Grau : Processo :
+Expedição do Diploma : No. de Registro :
+Folha de Registro : Livro de Registro :
+Documento emitido online pela Universidade Federal de Mato Grosso do Sul.
+Para verificar sua autenticidade acesse https://siscad.ufms.br/validar e digite o código 25X6.BO90.P21Z.EDY6
+Emitido em 12/09/2017 às 17:43. RGA 2015.1906.014-9
+Página:  1/4
+Ministério da Educação
+Universidade Federal de Mato Grosso do Sul
+PROGRAD - Pró-Reitoria de Graduação
+DICE - Divisão de Controle Escolar
+Histórico Escolar
+FACOM  -  FACULDADE DE COMPUTAÇÃO
+1906/5  - ENGENHARIA DE SOFTWARE - BACHARELADO
+ RECONHECIMENTO: 
+2015.1906.014-9  MATEUS GABI MOREIRA
+Período Acadêmico
+IVS   2015/1 - 1 MAT   2015/1 - 1 MAT   2015/2 - 2 MAT   2016/1 - 3 MAT   2016/2 - 4 MAT   2017/1 - 5 MAT   2017/2 - 6
+PERÍODO DISCIPLINA CURSADA C.H. NOTA OBS TIPO
+2015.1
+1919.000267-1 ALGORITMOS E PROGRAMAÇÃO ORIENTADA A OBJETOS I 102 8,3 AP OBR
+2201.000076-4 CÁLCULO I 85 7,8 AP OBR
+2501.000008-4 INTRODUÇÃO À ADMINISTRAÇÃO 68 5,5 RN OBR
+1919.000362-7 INTRODUÇÃO À ENGENHARIA DE SOFTWARE 68 7,9 AP OBR
+1919.000271-0 INTRODUÇÃO A SISTEMAS DIGITAIS 34 8,9 AP OBR
+2015.2
+1919.000270-1 ALGORITMOS E PROGRAMAÇÃO ORIENTADA A OBJETOS II 102 8,4 AP OBR
+1919.000273-6 ARQUITETURA DE COMPUTADORES I 68 7,7 AP OBR
+2501.000008-4 INTRODUÇÃO À ADMINISTRAÇÃO 68 9,8 AP OBR
+1919.000272-8 MODELAGEM DE PROCESSOS DE NEGÓCIO 68 8,3 AP OBR
+1919.000363-5 PROBABILIDADE E ESTATÍSTICA 68 6,6 AP OBR
+1919.000304-0 PROCESSOS DE SOFTWARE 68 9,7 AP OBR
+2016.1
+1919.000276-0 BANCO DE DADOS 68 7,7 AP OBR
+1919.000364-3 ENGENHARIA DE REQUISITOS 68 8,0 AP OBR
+1919.000275-2 ESTRUTURAS DE DADOS E PROGRAMAÇÃO ORIENTADA A OBJETOS 102 7,6 AP OBR
+1919.000269-8 FUNDAMENTOS DE TEORIA DA COMPUTAÇÃO 68 6,4 AP OBR
+1919.000279-5 SISTEMAS OPERACIONAIS 68 7,1 AP OBR
+2016.2
+1919.000280-9 ANÁLISE E PROJETO DE SOFTWARE ORIENTADO A OBJETOS 68 7,4 AP OBR
+1919.000339-2 GERÊNCIA DE PROJETOS 68 8,5 AP OBR
+1919.000336-8 LABORATÓRIO DE BANCO DE DADOS 68 9,7 AP OBR
+1919.000285-0 PROGRAMAÇÃO PARA A WEB 102 8,4 AP OBR
+1919.000278-7 PROJETO E ANÁLISE DE ALGORITMOS I 68 6,8 AP OBR
+1919.000282-5 REDES DE COMPUTADORES 68 8,5 AP OBR
+2017.1
+1919.000365-1 ARQUITETURA DE SOFTWARE 68 6,7 AP OBR
+1919.000287-6 EMPREENDEDORISMO 34 7,6 AP OBR
+1919.000340-6 INTERAÇÃO HUMANO-COMPUTADOR 68 8,7 AP OBR
+1919.000337-6 PROGRAMAÇÃO PARA DISPOSITIVOS MÓVEIS 68 8,9 AP OBR
+1919.000240-0 SISTEMAS DISTRIBUÍDOS 68 7,2 AP OBR
+Documento emitido online pela Universidade Federal de Mato Grosso do Sul.
+Para verificar sua autenticidade acesse https://siscad.ufms.br/validar e digite o código 25X6.BO90.P21Z.EDY6
+Emitido em 12/09/2017 às 17:43. RGA 2015.1906.014-9
+Página:  2/4
+Ministério da Educação
+Universidade Federal de Mato Grosso do Sul
+PROGRAD - Pró-Reitoria de Graduação
+DICE - Divisão de Controle Escolar
+Histórico Escolar
+FACOM  -  FACULDADE DE COMPUTAÇÃO
+1906/5  - ENGENHARIA DE SOFTWARE - BACHARELADO
+ RECONHECIMENTO: 
+2015.1906.014-9  MATEUS GABI MOREIRA
+1919.000333-3 VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE I 68 7,3 AP OBR
+2017.2
+1919.000367-8 ANÁLISE E PROJETO DE APLICAÇÕES WEB 68 MA OBR
+1919.000388-1 GERÊNCIA DE CONFIGURAÇÃO DE SOFTWARE 34 MA OBR
+1919.000378-3 MANUTENÇÃO DE SOFTWARE 34 MA OBR
+1919.000379-2 MEDIÇÃO DE SOFTWARE 34 MA OBR
+1919.000334-1 VERIFICAÇÃO, VALIDAÇÃO E TESTE DE SOFTWARE II 68 MA OBR
+COMPONENTES CURRICULARES NÃO DISCIPLINARES C.H. SITUAÇÃO
+ I   (ACS-ND) Atividades Complementares  0   Pendente
+TOTAL DE C.H. DAS DISCIPLINAS APROVADAS E DAS DISPENSADAS POR ANÁLISE CURRICULAR : 1921 horas
+CARGA HORÁRIA MÍNIMA EXIGIDA PELO C.F.E/ C.N.E. : 3200 horas
+CARGA HORÁRIA MÍNIMA EXIGIDA PELA FUFMS : 3200 horas
+TOTAL DE C.H. DAS OPTATIVAS CURSADAS (APROVADAS OU DISPENSADAS POR ANÁLISE CURRICULAR): 0 horas
+CARGA HORÁRIA MÍNIMA DE OPTATIVAS EXIGIDA PELA FUFMS: 204 horas
+Período Acadêmico:
+IVS    - INGRESSO VIA SiSU MAT    - REGULARMENTE MATRICULADO NO PERÍODO
+Observação (OBS): Tipo de Disciplina:
+AP - Aprovado MA - Matriculado ENR - Enriquecimento Curricular
+DC - Dispensado de Cursar RF - Reprovado por Falta OBR - Obrigatória
+DE - Dispensado Excepcionalmente RN - Reprovado por Nota OPT - Optativa
+DS - Dispensado por Análise de Currículo RP - Reprovado CEA - Complementar Específica de Aprofundamento
+LEG - Exigida pela Legislação
+Enade
+Ingressante:
+Ano: 2015 -  Situação: Estudante dispensado de realização do ENADE, em razão do calendário trienal
+Cursando:
+Concluinte:
+Documento emitido online pela Universidade Federal de Mato Grosso do Sul.
+Para verificar sua autenticidade acesse https://siscad.ufms.br/validar e digite o código 25X6.BO90.P21Z.EDY6
+Emitido em 12/09/2017 às 17:43. RGA 2015.1906.014-9
+Página:  3/4
+Ministério da Educação
+Universidade Federal de Mato Grosso do Sul
+PROGRAD - Pró-Reitoria de Graduação
+DICE - Divisão de Controle Escolar
+Histórico Escolar
+FACOM  -  FACULDADE DE COMPUTAÇÃO
+1906/5  - ENGENHARIA DE SOFTWARE - BACHARELADO
+ RECONHECIMENTO: 
+2015.1906.014-9  MATEUS GABI MOREIRA
+Documento emitido online pela Universidade Federal de Mato Grosso do Sul.
+Para verificar sua autenticidade acesse https://siscad.ufms.br/validar e digite o código 25X6.BO90.P21Z.EDY6
+Emitido em 12/09/2017 às 17:43. RGA 2015.1906.014-9
+Página:  4/4
