@@ -5,6 +5,10 @@ package net.mateusgabi.SchollarPoints;
  *         on 12/09/2017.
  */
 public class Courses {
-    public Courses(String s) {
+
+    private String name;
+
+    public Courses(String name) {
+        this.name = name;
     }
 }

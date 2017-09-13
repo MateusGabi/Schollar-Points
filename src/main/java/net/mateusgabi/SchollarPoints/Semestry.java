@@ -5,6 +5,10 @@ package net.mateusgabi.SchollarPoints;
  *         on 12/09/2017.
  */
 public class Semestry {
-    public Semestry(String s) {
+
+    private String name;
+
+    public Semestry(String name) {
+        this.name = name;
     }
 }

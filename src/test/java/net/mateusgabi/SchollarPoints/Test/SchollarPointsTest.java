@@ -45,7 +45,7 @@ public class SchollarPointsTest {
         Semestry semestry = new Semestry("2015.1");
 
         Assert.assertEquals(courses, mock.getCourses(semestry));
-        
+
     }
 
 }
